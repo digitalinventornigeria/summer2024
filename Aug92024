@@ -1,0 +1,55 @@
+djordjegli...@gmail.com's profile photo
+djordjegli...@gmail.com
+Jul 12, 2024, 11:31:44 PM (17 hours ago) 
+to Machine Learning News
+Call For Papers - CIKM Workshop on Generative AI for E-Commerce - https://genai-ecommerce.github.io/
+
+Collocated with CIKM 2024
+October 25, 2024 — Boise (Idaho), USA
+
+* August 9, 2024: Paper submission deadline
+* August 30, 2024: Paper acceptance notification
+* September 13, 2024: Camera ready versions submission
+* October 25, 2024: Workshop date
+
+All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
+
+SUMMARY
+The “Generative AI for E-commerce” workshop will explore the role of Generative Artificial Intelligence in transforming e-commerce through enhanced user experience and operational efficiency. E-commerce companies grapple with multiple challenges such as lack of quality content for products, subpar user experience, sparse datasets etc. Gen AI offers significant potential to address these complexities. Yet, deploying these technologies at scale presents challenges such as hallucination, excessive costs, increased latency response, and limited generalization in sparse data environments. This workshop will bring together experts from academia and industry to discuss these challenges and opportunities, aiming to showcase case studies, breakthroughs, and insights into practical implementations of Gen AI in e-commerce.
+The topics of interest are (but not limited to) listed below:
+
+Generative AI for Personalized Search and Recommendation Systems
+Generative large language models (LLMs) for creating or improving product descriptions, reviews, and personalized advertising content that enhances user engagement.
+Generative image models for creating new product images or enhancing the existing ones, generating personalized marketing images, or other visual forms of communicating products with customers.
+Using large multi-modal generative models for creating product videos, improving quality of existing videos, integrating them with the platform, all in service of producing a seamless user experience in the multi-modal e-commerce world.
+Leveraging Gen AI for dynamic catalog creation and attribute extraction in the ever-evolving world of products.
+Inventory management with Gen AI
+Using Gen AI to enable virtual try-ons
+LLM-driven generation of browsing and search recommendations, e.g., in situations of low recall.
+LLM driven recommendations explainability by providing additional context on displayed items
+Gen AI powered advertising and promotion systems: Systems that go beyond traditional advertising offerings such as creating a purchase baskets of promoted listings with a comprehensive message to a user.
+Efficiency and scalability of Gen AI driven system
+Customer Service Automation: LLM-driven chatbots and virtual assistants
+Ethical implications of deploying Gen AI in e-Commerce, including concerns about privacy, transparency, trust and fairness.
+Reproducibility of the LLMs and evaluation metrics.
+
+KEYNOTES
+Himabindu Lakkaraju
+Manisha Verma
+Xia Ning
+Shahram Khadivi
+
+SUBMISSION
+We welcome contributions upto 5 pages, excluding references and supplementary materials.
+
+ORGANIZING COMMITTEE
+Mansi Mane, Walmart Labs
+Djordje Gligorijevic, eBay
+Dingxian Wang, Upwork
+Behzad Shahrasbi, Amazon
+Topojoy Biswas, Walmart Labs
+Evren Korpeoglu, Walmart Labs
+Marios Savvides, CMU, Ultron AI
+
+Please reach out to dgligorijevic at ebay dot com for any question or clarification regarding the workshop.
+
